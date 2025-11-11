@@ -1,6 +1,6 @@
 name: Despliegue Automático a Firebase Hosting
 
-# 1. Cuándo se ejecuta el workflow
+
 on:
   push:
     # Se ejecuta solo cuando hay un 'push' a la rama 'main'
