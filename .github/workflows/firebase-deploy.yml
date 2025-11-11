@@ -46,6 +46,7 @@ jobs:
           # El token de despliegue que guardaste como Secreto
           firebaseServiceAccount: '${{ secrets.FIREBASE_TOKEN }}'
           # ID de tu proyecto de Firebase
-          projectId: dpl-test
+          projectId: dpl-test-a49ce
+
           # Canal de despliegue (para el sitio principal)
           channelId: live
