@@ -3,7 +3,7 @@ name: Despliegue Automático a Firebase Hosting
 
 on:
   push:
-    # Se ejecuta solo cuando hay un 'push' a la rama 'main'
+    
     branches:
       - master
 
